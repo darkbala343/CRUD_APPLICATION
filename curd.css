@@ -1,0 +1,16 @@
+
+body{
+    background-image: url('R.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.container{
+    color: white;
+}
+#bb{
+    text-align: center;
+}
+#Update {
+    display: none;
+}
